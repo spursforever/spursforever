@@ -1,8 +1,8 @@
 ### Hi there I'm Dayton~ 👋
 
-![Dayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=spursforever&count_private=true&show_icons=true&theme=shades-of-purple)
+![Dayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=spursforever&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spursforever&layout=compact&theme=shades-of-purple)](https://github.com/spursforever/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spursforever&layout=compact&theme=gruvbox)](https://github.com/spursforever/github-readme-stats)
 
 <!--
 **spursforever/spursforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
