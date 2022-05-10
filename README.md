@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Dayton~ 👋
+
+![Dayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=spursforever&count_private=true&show_icons=true&theme=shades-of-purple)
 
 <!--
 **spursforever/spursforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
