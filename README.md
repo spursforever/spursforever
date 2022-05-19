@@ -1,4 +1,5 @@
 ### Hi there I'm Dayton~ 👋
+- 📫 How to reach me: daytonchen120@gmail.com
 
 ![Dayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=spursforever&count_private=true&show_icons=true&theme=gruvbox)
 
