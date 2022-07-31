@@ -1,5 +1,14 @@
 ### Hi there I'm Dayton~ 👋
 - 📫 How to reach me: daytonchen120@gmail.com
+or
+<div>
+<a href="https://www.linkedin.com/in/dayton-chen-0abb7abb/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://angel.co/u/dayton-chen">
+<img src="https://img.shields.io/badge/Angelist-white?style=for-the-badge&logo=angellist&logoColor=black" alt="Angelist Badge"/>
+</a>
+</div>
 
 ### Language that I used
 <div>
