@@ -1,7 +1,9 @@
 ### Hi there I'm Dayton~ 👋
-- 📫 How to reach me: daytonchen120@gmail.com
-or
-<div>
+- 📫 Reach me through: 
+<div  align = 'center'>
+<a href="mailto:daytonchen120@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 <a href="https://www.linkedin.com/in/dayton-chen-0abb7abb/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
