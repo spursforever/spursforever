@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:60px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="width:60px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="width:60px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" title="socketio" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="width:60px;" /><img src="https://img.icons8.com/nolan/64/git.png" style="width:60px;"/> 
 </div>
 
-### My Git Stat:
+### My Github Stat:
 <div align = 'center'>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spursforever&theme=gruvbox_duo&background=000000)](https://git.io/streak-stats)
@@ -26,5 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spursforever&layout=compact&theme=solarized-light)](https://github.com/spursforever/github-readme-stats)
 
 </div>
+
 
 
